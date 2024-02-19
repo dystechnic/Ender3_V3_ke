@@ -1,0 +1,26 @@
+{
+    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0 \n",
+    "from": "User",
+    "inherits": "Creality Ender-3 V3 KE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_start_gcode": "M104 S0 ; Stops OrcaSlicer from sending temp waits separately\nM140 S0\nSTART_PRINT EXTRUDER=[first_layer_temperature] BED=[first_layer_bed_temperature] CHAMBER=[chamber_temperature]\n\n",
+    "max_layer_height": [
+        "0.45"
+    ],
+    "min_layer_height": [
+        "0.15"
+    ],
+    "name": "Ender-3 V3 KE 0.6 nozzle",
+    "nozzle_diameter": [
+        "0.6"
+    ],
+    "print_host": "192.168.30.130:4408",
+    "printer_settings_id": "Ender-3 V3 KE 0.6 nozzle",
+    "retraction_length": [
+        "0.8"
+    ],
+    "support_multi_bed_types": "1",
+    "time_lapse_gcode": "TIMELAPSE_TAKE_FRAME\n",
+    "version": "1.9.0.2"
+}

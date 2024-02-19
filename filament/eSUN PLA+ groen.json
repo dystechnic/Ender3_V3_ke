@@ -1,0 +1,49 @@
+{
+    "default_filament_colour": [
+        "#26A269"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "20.04"
+    ],
+    "filament_diameter": [
+        "1.74"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "15.456"
+    ],
+    "filament_settings_id": [
+        "eSUN PLA+ groen"
+    ],
+    "filament_vendor": [
+        "eSUN"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "eSUN PLA+ groen",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "pressure_advance": [
+        "0.04"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "textured_plate_temp": [
+        "50"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "50"
+    ],
+    "version": "1.9.0.2"
+}

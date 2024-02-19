@@ -1,0 +1,40 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "20.04"
+    ],
+    "filament_flow_ratio": [
+        "0.9405"
+    ],
+    "filament_max_volumetric_speed": [
+        "15.456"
+    ],
+    "filament_settings_id": [
+        "eSUN PLA+ wit"
+    ],
+    "filament_vendor": [
+        "eSUN"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "eSUN PLA+ wit",
+    "pressure_advance": [
+        "0.04"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "textured_plate_temp": [
+        "50"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "50"
+    ],
+    "version": "1.9.0.2"
+}

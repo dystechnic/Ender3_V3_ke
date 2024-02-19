@@ -1,0 +1,31 @@
+{
+    "default_filament_colour": [
+        "#B5835A"
+    ],
+    "filament_cost": [
+        "29.5"
+    ],
+    "filament_settings_id": [
+        "Polymaker PLA Silk Bronze"
+    ],
+    "from": "User",
+    "inherits": "Polymaker PLA Silk @Creality Ender-3 V3 KE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Polymaker PLA Silk Bronze",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "pressure_advance": [
+        "0.052"
+    ],
+    "textured_plate_temp": [
+        "55"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "55"
+    ],
+    "version": "1.9.0.2"
+}

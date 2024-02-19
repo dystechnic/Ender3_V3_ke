@@ -1,0 +1,40 @@
+{
+    "default_filament_colour": [
+        "#1C71D8"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.9"
+    ],
+    "filament_max_volumetric_speed": [
+        "15.456"
+    ],
+    "filament_settings_id": [
+        "eSUN PLA Silk Groen Blauw"
+    ],
+    "filament_vendor": [
+        "eSUN"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA Silk @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "eSUN PLA Silk Groen Blauw",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "pressure_advance": [
+        "0.053"
+    ],
+    "textured_plate_temp": [
+        "50"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "50"
+    ],
+    "version": "1.9.0.2"
+}
